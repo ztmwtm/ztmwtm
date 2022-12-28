@@ -32,9 +32,13 @@
 🚧 **Мои задачи на ближайшее время:**
 <!-- TODO-IST:START -->
 * [x] Прокачать свой профиль на Github
-* [x] Добить JavaCore
-* [ ] Углубится в Concurency
-* [ ] ...
+* [x] JavaCore
+* [x] Java Collection API
+* [x] Concurrency
+* [x] JUnit
+* [X] Maven
+* [ ] Spring
+* [ ] Keep lerning
 <!-- TODO-IST:END -->
 
 <!--
