@@ -34,7 +34,7 @@
 * [x] Прокачать свой профиль на Github
 * [x] JavaCore
 * [x] Java Collection API
-* [x] Concurrency
+* [ ] Concurrency
 * [x] JUnit
 * [X] Maven
 * [ ] Spring
